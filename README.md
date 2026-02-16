@@ -28,7 +28,8 @@ Non ti preoccupare, non ci sarà bisogno di dover contattare l'assistenza. Nella
 
 #### 📖 Documentazione
 
-La documentazione completa, le guide di montaggio e la configurazione software, è disponibile qui:
+La documentazione completa, le guide di montaggio e la configurazione software, è disponibile qui: 
+
 👉 **[Manuale Ufficiale PRIMO](https://crearobotics.github.io/PRIMO-Docs/cos_e_la_robotica/)**
 
 #### 🛠️ Assemblaggio
