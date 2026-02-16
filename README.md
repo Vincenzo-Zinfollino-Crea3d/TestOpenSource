@@ -1,3 +1,6 @@
+<p allign="center">
+<img alt=" Primo v1.1  Your first friendly robotic arm"  src="media-readme/banner.png">
+</p>
 
 # PRIMO - Manipolatore Antropomorfo Open Source 🤖
 Primo è un manipolatore antropomorfo interamente stampato in 3d, progettato per l'educazione STEM e realizzato da Crea3d.
