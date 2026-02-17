@@ -26,6 +26,11 @@ Primo è un braccio robotico a 6 assi open source interamente realizzato utilizz
 * **03-Manuale**:  Manuale di utilizzo e diagrammi di connessione e schemi elettrici. 
 * **04-Firmware:** Firmware e software necessari per il controllo.
 
+#### Necessiti del file di Assieme ?
+
+Puoi scaricare il file di assieme completo in ogni suo dettaglio, dal nostro sito web: [Crea Robotics](https://www.crearobotics.com/it/)
+
+
 #### E se qualcosa va storto 🤕?
 Se un pezzo stampato dovesse rompersi, nessun problema, grazie ai file a disposizione, puoi semplicemente ristamparlo in autonomia, senza dover attendere pezzi di ricambio o contattare l'assistenza.
 
