@@ -2,7 +2,9 @@
 <img alt=" Primo v1.1  Your first friendly robotic arm"  src="media-readme/BANNER-PRIMO.png"> 
 </p>
 
-[![English versionson](https://img.shields.io/pypi/pyversions/lerobot)](https://www.python.org/downloads/)
+
+
+[![English versionson](https://img.shields.io/badge/lang-en-red.svg)](README-EN.md)
 
 # Manipolatore Antropomorfo 
 Primo è il nostro manipolatore antropomorfo interamente stampato in 3d, progettato e realizzato da [Crea3d](https://www.crea3d.com/it/) per il settore STEM.
